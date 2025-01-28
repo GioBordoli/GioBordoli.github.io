@@ -2,6 +2,7 @@
 layout: post
 title: "Trust yourself not your brain!"
 date: 2025-01-26
+location: Memorial Union Starbucks, Tempe, AZ, USA
 ---
 the realization that we are not our brain comes slowly but then suddenly. We are not our brain because one can't be both the listener and the speaker. We are the one who listens to our thoughts. The clear eveidence for this statement is that our thoughts change overtime, based on the experiences we go through as individuals. What we see, hear, touch, changes our nervous system of which the brain is nothing more than the CPU. What makes us feel emotions has a particularly impactful result on the way we see the world and how we think about it. ur thoughs are shaped by the universe but somehow, this constant change does not affect "us" the passive observer of our inner dialog. It would be a fatal mistake to fail to realize this distinction in our conscience. Why? Because our thoughts can get clouded by the way our bodies feel! 
 
