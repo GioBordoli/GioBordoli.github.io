@@ -1,4 +1,9 @@
-  
+---
+layout: post
+title: "Antii-Nihilism"
+date: 2025-01-31
+location: Memorial Union Starbucks, Tempe, AZ, USA
+---
 Nihilism has affected the last generations like the plague affected those that lived during the earlier ages of human history.   
 As F. Nietzche predicted with incredible accuracy, the murder of God led to the loss of life's meaning which for many, simply translates into a lack of purpose, a lack of a meaningful goal in life and a hard time understanding the justification for life's inevitable suffering.   
 The pinnacle of this absurd new meaningless life is Existentialism, particularly A. Camus' Absurdism exemplified in the life of the protagonist Arthur Mersault of one of my favorite books of his: The Stranger.   
