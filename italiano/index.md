@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Saggi in Italiano
+title: Testi in Italiano
 ---
 
 # Saggi in Italiano
