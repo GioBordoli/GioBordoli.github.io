@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Saggi in Italiano</title>
+    <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/tailwind.css">
     <link rel="stylesheet" href="/assets/css/style.css">
 </head>
@@ -19,20 +19,7 @@
     </header>
 
     <main class="container mx-auto p-4">
-        <h1 id="saggi-in-italiano">Saggi in Italiano</h1>
-
-<ul>
-  <li>
-    <p><a href="/italiano/IA%20+%20perseveranza%20=%20successo.html">IA + perseveranza = successo</a>
-<small>(26 Jan 2025)</small></p>
-  </li>
-  <li>
-    <p><a href="/italiano/Sul%20Lavoro.html">Sul Lavoro</a>
-<small>(29 Jan 2025)</small></p>
-  </li>
-</ul>
-
-
+        {{ content }}
     </main>
 
     <footer class="text-center p-4 text-gray-600">

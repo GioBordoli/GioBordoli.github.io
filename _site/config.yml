@@ -1,3 +1,17 @@
-title: Giorgio Bordoli
-description: Personal essays by Giorgio
+title: "Giorgio Bordoli"
+description: "Personal blog with essays in English & Italian"
+baseurl: "" 
+url: "https://giobordoli.github.io"
+
+collections:
+  english:
+    output: true
+    permalink: /english/:name/
+  italiano:
+    output: true
+    permalink: /italiano/:name/
+
+markdown: kramdown
 theme: minima
+plugins:
+  - jekyll-feed
