@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "If I had 10x the agency I have, what would I do?"  
+title: "On Power"  
 date: 2025-02-01  
 location: Hayden Library, 2nd floor, Tempe, AZ, USA  
 ---
