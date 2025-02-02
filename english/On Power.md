@@ -1,9 +1,9 @@
-\---  
+---  
 layout: post  
-title: "If I had 10x the agency I have, what would I do?"  
+title: "On Power"  
 date: 2025-02-01  
 location: Hayden Library, 2nd floor, Tempe, AZ, USA  
-\---
+---
 
 It is a human desire to aspire to have more power. This is a fact that many people are reluctant to say out loud or even just to admit to themselves. This desire, like the devil, is a shapeshifter and it often manifests itself in different, more socially acceptable dresses.   
 Few people would commit to a sentence like: “I want to be more powerful”, but almost all of us frequently think and say that our goals are to get richer, more attractive, physically stronger, more intelligent or more knowledgeable. If we look closely under these blanket terms these are none but crystallizations or forms that power can assume. Before I argue further, let me reveal my definition of power: “The speed in capacity or ability to direct or influence the course of events or the behavior of others”. No wonder why many abstain from proclaiming publicly that they want more power, this sounds incredibly manipulative\! And yet, the above mentioned acceptable desires are nothing but ways to gain increased directive control on the reality we live in everyday as people\!   
