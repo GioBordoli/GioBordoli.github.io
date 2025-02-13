@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Entrepreneurship Vs. 9-5 (a rant\!)"  
+title: "Entrepreneurship Vs. 9-5 (a rant)"  
 date: 2025-02-09  
 location: Starbuck on Forest & University, Tempe, AZ, USA  
 --- 
