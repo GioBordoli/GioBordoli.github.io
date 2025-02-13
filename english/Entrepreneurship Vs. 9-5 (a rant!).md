@@ -1,9 +1,9 @@
-\---  
+---  
 layout: post  
 title: "Entrepreneurship Vs. 9-5 (a rant\!)"  
 date: 2025-02-09  
 location: Starbuck on Forest & University, Tempe, AZ, USA  
-—
+--- 
 
 Many of us, and probably you, if you’re reading this, have dreamt of starting a company of their own and making a (hell of a) living selling their products and services.   
 Despite this, most people follow the beaten path of going to college, perhaps not giving this question enough thought: “should I try my best to land a good paying job, or should I take the risk of starting my own business?”  
