@@ -1,9 +1,9 @@
----
-layout: post
-title: "On Running"
-date: 2025-02-19
-location: Memorial Union Starbucks, Tempe, AZ, USA
----
+---  
+layout: post  
+title: "On Running"  
+date: 2025-02-19  
+location: Starbucks Memorial Union, Tempe, AZ
+---  
 Here is why you should run and why you should do so without headphones, no music, no podcasts, just thoughts.
 
 Out of respect for the reader and the countless professionals online I am going to avoid getting into the details of why running is good for the cardiovascular system etcetera, you already know that well. 
