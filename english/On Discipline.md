@@ -1,9 +1,9 @@
-\---  
+---  
 layout: post  
 title: "On Discipline"  
 date: 2025-02-25  
 location: Hayden Library, Tempe, AZ, USA  
-—
+---
 
 Discipline isn’t about suffering—it’s about trust. Most people think being disciplined means grinding harder, pushing through pain, and forcing themselves to do more. They’re wrong. Get this part wrong, and you’ll sabotage yourself.
 
